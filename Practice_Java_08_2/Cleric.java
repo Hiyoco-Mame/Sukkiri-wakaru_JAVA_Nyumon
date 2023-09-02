@@ -1,4 +1,4 @@
-package Practice_Java_8_2;
+package Practice_Java_08_2;
 
 public class Cleric {
     private String name;
