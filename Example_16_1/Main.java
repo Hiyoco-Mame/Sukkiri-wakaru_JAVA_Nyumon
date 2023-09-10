@@ -2,6 +2,7 @@ package Example_16_1;
 
 import java.util.ArrayList;
 
+
 public class Main {
     public static void main(String[] args){
         ArrayList<Integer> points = new ArrayList<Integer>();
