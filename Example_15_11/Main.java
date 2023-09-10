@@ -9,5 +9,7 @@ public class Main {
         System.out.println(now.getTime());
         Date past = new Date(1600705425827L);
         System.out.println(past);
+        now.setTime(1600705425827L);
+        System.out.println(now);
     }
 }
