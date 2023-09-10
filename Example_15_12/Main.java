@@ -10,7 +10,7 @@ public class Main {
         c.set(Calendar.MONTH, 10);
         
         Date d = c.getTime();
-        System.out.println(c);
+        System.out.println(d);
 
         Date now = new Date();
         c.setTime(now);
