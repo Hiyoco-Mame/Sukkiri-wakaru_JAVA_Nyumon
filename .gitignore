@@ -3,3 +3,7 @@
 Playground/
 test-java-app/
 .DS_Store/
+lib/
+src/
+bin/
+.vscode/
